@@ -175,7 +175,7 @@ This role is assigned to users who have full control over the app. You can view,
 
 ## Contact
 
-<a href="https://varunbr.github.io">Contact</a>
+<a href="https://github.com/parthtyagi281">Contact</a>
 
 ## Acknowledgements
 
